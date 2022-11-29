@@ -1,0 +1,95 @@
+[
+    {
+        "id":"1",
+        "imagen":"https://www.fullh4rd.com.ar/img/productos/Pics_Prod/micro-amd-ryzen-9-7950x-64mb-57ghz-cvideo-scooler-am5-0.jpg",
+        "nombre":"AMD RYZEN 9 7950X 64MB 5.7GHZ C/VIDEO S/COOLER AM5",
+        "precio":"$234.801",
+        "categoria":"procesador",
+        "oferta":"10%"
+    },
+    {
+        "id":"2",
+        "imagen":"https://www.fullh4rd.com.ar/img/productos/Pics_Prod/micro-intel-core-i5-11400f-svideo-0.jpg",
+        "nombre":"INTEL CORE I5 11400F S/VIDEO",
+        "precio":"$40.109",
+        "categoria":"procesador",
+        "oferta":"10%"
+    },
+    {
+        "id":"3",
+        "imagen":"https://spacegamer.com.ar/img/Public/1058-producto-ryzen3-9978.jpg",
+        "nombre":"AMD RYZEN 3 3200G 4.0GHZ TURBO + RADEON VEGA 8 AM4",
+        "precio":"$34.250",
+        "categoria":"procesador",
+        "oferta":"10%"
+    },
+    {
+        "id":"4",
+        "imagen":"https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27673_Procesador_AMD_Ryzen_7_5700G_4.6GHz_Turbo___Wraith_Stealth_Cooler_cb33e4fa-grn.jpg",
+        "nombre":"AMD RYZEN 7 5700G 4.6GHZ TURBO + WRAITH STEALTH COOLER",
+        "precio":"$69.900",
+        "categoria":"procesador"
+    },
+    {
+        "id":"5",
+        "imagen":"http://git.gestionresellers.com.ar/public_image_server/28993/1620071792",
+        "nombre":"INTEL CELERON G5925 3.6GHz SOCKET 1200",
+        "precio":"$11.150",
+        "categoria":"procesador",
+        "oferta":"10%"
+    },
+    {
+        "id":"6",
+        "imagen":"https://d2r9epyceweg5n.cloudfront.net/stores/001/120/045/products/1271-cb4dc58f866d36eed815912983761558-640-0.jpg",
+        "nombre":"INTEL CORE I3 10100 4.3GHZ TURBO 10TH GEN SOCKET 1200",
+        "precio":"$31.500",
+        "categoria":"procesador",
+        "oferta":"10%"
+    },
+    {
+        "id":"7",
+        "imagen":"https://www.fullh4rd.com.ar/img/productos/Pics_Prod/video-geforce-rtx-3080-ti-12gb-pny-xlr8-revel-epicx-rgb-tri-0.jpg",
+        "nombre":"GEFORCE RTX 3080 TI 12GB PNY XLR8 REVEL EPIC-X RGB TRI",
+        "precio":"$375.021,00",
+        "categoria":"tarjeta grafica",
+        "oferta":"10%"
+    },
+    {
+        "id":"8",
+        "imagen":"https://www.fullh4rd.com.ar/img/productos/Pics_Prod/video-radeon-rx-6800-xt-16gb-gigabyte-gaming-oc-0.jpg",
+        "nombre":"RADEON RX 6800 XT 16GB GIGABYTE GAMING OC",
+        "precio":"$246.537,00",
+        "categoria":"tarjeta grafica"
+    },
+    {
+        "id":"9",
+        "imagen":"https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35144_Placa_de_Video_Zotac_GeForce_GTX_1660_SUPER_6GB_GDDR6_Twin_Fan_b62628e1-grn.jpg",
+        "nombre":"ZOTAC GEFORCE GTX 1660 SUPER 6GB GDDR6 TWIN FAN",
+        "precio":"$97.900",
+        "categoria":"tarjeta grafica",
+        "oferta":"10%"
+    },
+    {
+        "id":"10",
+        "imagen":"https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35002_Placa_de_Video_ASUS_GeForce_RTX_3070_Ti_8GB_GDDR6X_TUF_OC_064197e5-grn.jpg",
+        "nombre":"ASUS GEFORCE RTX 3070 TI 8GB GDDR6X TUF OC",
+        "precio":"$199.500",
+        "categoria":"tarjeta grafica"
+    },
+    {
+        "id":"11",
+        "imagen":"https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19164_Placa_de_Video_XFX_Radeon_RX_570_8GB_DDR5_RS_XXX_Edition_951516f2-grn.jpg",
+        "nombre":"XFX RADEON RX 570 8GB DDR5 RS XXX EDITION",
+        "precio":"$63.500",
+        "categoria":"tarjeta grafica",
+        "oferta":"10%"
+    },
+    {
+        "id":"12",
+        "imagen":"https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_28860_Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_D_OC_bcb6b3e8-grn.jpg",
+        "nombre":"ASROCK RADEON RX 6700 XT 12GB GDDR6 CHALLENGER D OC",
+        "precio":"$130.300",
+        "categoria":"tarjeta grafica",
+        "oferta":"10%"
+    }
+]
