@@ -9,7 +9,7 @@ import Register from './components/Register/Register';
 function App() {
   return (
       <Routes>
-        <Route path='/inicio' element={<Inicio/>}/>
+        <Route path='/' element={<Inicio/>}/>
         <Route path='/productos' element={<Productos/>}/>
         <Route path='/contacto' element={<Contacto/>}/>
         <Route path='/login' element={<Login/>}/>

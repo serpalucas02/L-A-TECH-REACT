@@ -41,3 +41,6 @@
     display: flex;
     width: fit-content;
 }
+.rec.rec-slider-container{
+    margin: 0;
+}
