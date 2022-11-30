@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/L-A-TECH-REACT/static/css/main.541ef75a.css",
-    "main.js": "/L-A-TECH-REACT/static/js/main.bfc11156.js",
+    "main.js": "/L-A-TECH-REACT/static/js/main.cb297e5f.js",
     "static/js/787.b978bd17.chunk.js": "/L-A-TECH-REACT/static/js/787.b978bd17.chunk.js",
     "static/media/aorus-carousel.png": "/L-A-TECH-REACT/static/media/aorus-carousel.ea396742b0c8073a03df.png",
     "static/media/asus-carousel.png": "/L-A-TECH-REACT/static/media/asus-carousel.42ba65914e2c379d4049.png",
     "static/media/corsair-carousel.png": "/L-A-TECH-REACT/static/media/corsair-carousel.a2856cd423a0e3cbdcd8.png",
     "index.html": "/L-A-TECH-REACT/index.html",
     "main.541ef75a.css.map": "/L-A-TECH-REACT/static/css/main.541ef75a.css.map",
-    "main.bfc11156.js.map": "/L-A-TECH-REACT/static/js/main.bfc11156.js.map",
+    "main.cb297e5f.js.map": "/L-A-TECH-REACT/static/js/main.cb297e5f.js.map",
     "787.b978bd17.chunk.js.map": "/L-A-TECH-REACT/static/js/787.b978bd17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.541ef75a.css",
-    "static/js/main.bfc11156.js"
+    "static/js/main.cb297e5f.js"
   ]
 }
