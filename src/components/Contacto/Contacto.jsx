@@ -15,7 +15,7 @@ function Contacto() {
                 icon: 'success',
                 confirmButtonText: 'OK'
               }).then((result) => {
-                window.location='/contacto';
+                window.location.reload();
               })
     }
 
@@ -28,16 +28,16 @@ function Contacto() {
                     <h1>Contacto</h1>
                     <div className="form-group">
                         <label htmlFor="nombre">Nombre y Apellido</label>
-                        <input id="nombre" type="text" name="nombre"/>
+                        <input id="nombre" type="text" name="nombre" required/>
                     </div>
                     <div className="form-group">
                         <label htmlFor="email">Email</label>
-                        <input id="email" type="email" name="email"/>
+                        <input id="email" type="email" name="email" required/>
                         <ValidationError prefix="Email" field="email" errors={state.errors}/>
                     </div>
                     <div className="form-group">
                         <label htmlFor="mensaje">Mensaje</label>
-                        <textarea id="mensaje" name="mensaje"/>
+                        <textarea id="mensaje" name="mensaje" required/>
                         <ValidationError prefix="Mensaje" field="mensaje" errors={state.errors}/>
                     </div>
                     
